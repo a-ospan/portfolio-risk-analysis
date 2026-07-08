@@ -1,6 +1,6 @@
 # Portfolio Risk Analysis
 
-Portfolio risk analysis of a 70% stock and 30% bond ETF portfolio using daily U.S. market data from 2010 to 2024.
+Portfolio risk analysis of a 70% stock and 30% bond ETF portfolio using U.S. market data from 2010 to 2024.
 
 The project evaluates return, volatility, drawdowns, diversification, benchmark performance, stress periods, regression exposure and allocation sensitivity.
 
