@@ -1,8 +1,8 @@
 # Portfolio Risk Analysis
 
-Portfolio risk analysis of a growth oriented 70% stock and 30% bond ETF portfolio using daily U.S. market data from 2010 to 2024.
+Portfolio risk analysis of a 70% stock and 30% bond ETF portfolio using daily U.S. market data from 2010 to 2024.
 
-The project evaluates portfolio return, volatility, drawdowns, diversification, benchmark performance, stress periods, regression exposure, and allocation sensitivity.
+The project evaluates return, volatility, drawdowns, diversification, benchmark performance, stress periods, regression exposure and allocation sensitivity.
 
 ## Portfolio
 
@@ -15,6 +15,18 @@ The baseline portfolio includes:
 | IWM | 5% | Small cap equity |
 | IEF | 20% | Intermediate Treasury bonds |
 | TLT | 10% | Long term Treasury bonds |
+
+## Analysis
+
+The project includes:
+
+- Portfolio return and volatility analysis
+- Maximum drawdown and annual return review
+- Correlation and risk contribution analysis
+- Benchmark comparison against SPY
+- Historical stress testing
+- Regression exposure model
+- Allocation sensitivity analysis
 
 ## Tools
 
